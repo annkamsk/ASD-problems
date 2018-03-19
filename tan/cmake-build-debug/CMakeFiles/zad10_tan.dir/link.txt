@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zad10_tan.dir/main.cpp.o  -o zad10_tan 

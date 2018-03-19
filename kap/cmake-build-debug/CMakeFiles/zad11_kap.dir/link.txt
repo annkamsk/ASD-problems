@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zad11_kap.dir/main.cpp.o  -o zad11_kap 

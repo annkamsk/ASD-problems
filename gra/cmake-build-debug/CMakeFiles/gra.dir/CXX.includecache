@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/CLionProjects/gra/main.cpp
+iostream
+-
+vector
+-
+limits.h
+-
+queue
+-
+unordered_map
+-
+map
+-
+list
+-
+

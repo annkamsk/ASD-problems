@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/CLionProjects/zad10_tan/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+tuple
+-
+climits
+-
+cassert
+-
+

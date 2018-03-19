@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gra.dir/main.cpp.o  -o gra 
