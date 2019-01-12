@@ -18,7 +18,7 @@ In other words: on every stretch from one island to another one of the sailors s
 Captain is thinking now how to plan the cruise, so he would spend as little time as possible at the wheel.
 He doesn't care how long would take the whole travel. Let's assume that ship travels with constant speed of one unit per hour. 
 
-*par (Bit Park problem)
+* par (Bit Park problem)
 In a Bit Park there are n clearings numbered from 1 to n. Some pairs of clearings are connected by two-way paths.
 As it is a Bit Park, the system of paths creates a Binary Tree with a root in the 1st clearing.
 Byteck and Byteen came to park after school. Children decided to play a game: alternately each child chooses a number A of a clearing
